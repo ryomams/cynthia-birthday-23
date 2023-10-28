@@ -1,6 +1,4 @@
-Da Plan!!
-
-===
+## Da Plan!!
 
 Cynthia's Yumme Nikki Silly
 
