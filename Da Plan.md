@@ -10,11 +10,26 @@ Cynthia's Yumme Nikki Silly
     - [-] dogged.gg DNS
 - [x] Get a static website and web server hosted somewhere    (ryomams.github.io/cynthia-birthday-23/flute1.html)
 - [ ] Get were.zone/cynth1 to redirect to ryomams.github.io/cynthia-birthday-23/flute1.html and were.zone/cynth2 to ryomams.github.io/cynthia-birthday-23/flute2.html
-- [ ] Get p5 working
+- [-] Get p5 working or research html canvas
 - [ ] Make da thing (web safe flute effect from yume nikki)
     - [x] Get Samples to use 
     - [ ] screen is divided proportionately by the window's dimensions (will have to resize window with DOM?)
     - [ ] Get images
-    - [ ] remainng logic
+    - [ ] remaining logic
+            - [ ] html and canvas tag laid out
+            - [ ] canvas background
+            - [ ] implement callbacks for interaction
+                - keyboard listener
+                - touch listener
+                - mouse listener
+                - controller listener ?
+            - [ ] audio reacts to interaction callbacks (random flute noise is played)
+            - [ ] animation reacts to interaction callbacks
+                - [ ] (background changes and music notes play)
+                    - [ ] (color range for background is bounded within pastels)
+                - [ ] STRETCH: effect enabling particle effect
+            - [ ] js onclick for audio permissions
+                - [ ] audio permissions
+                - [ ] play "on" noise
     - [ ] put onto site
 - [ ] yell at cynthia
