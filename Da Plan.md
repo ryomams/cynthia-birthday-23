@@ -3,13 +3,13 @@
 Cynthia's Yumme Nikki Silly
 - [-] Fix DNS
     - [-] ryoma.ms CNAME to ryomams.github.io
-    - [-] godaddy ns for ryoma.ms to ms azure ns
+    - [x] godaddy ns for ryoma.ms to ms azure ns
     - [x] ryomams.github.io to rymo.neocities.org
     - [ ] were.zone to rymo.neocities.org via DNS
     - [-] update channel islands records (dogged.gg)
     - [ ] dogged.gg to rymo.neocities.org via DNS
-- [ ] Get a static website and web server hosted somewhere
-- [ ] Get were.zone/cynth1 to redirect to ryoma.ms/cynthia/gift23-1 and were.zone/cynth2 to ryoma.ms/cynthia/gift
+- [x] Get a static website and web server hosted somewhere    (ryomams.github.io/cynthia-birthday-23/flute1.html)
+- [ ] Get were.zone/cynth1 to redirect to ryomams.github.io/cynthia-birthday-23/flute1.html and were.zone/cynth2 to ryomams.github.io/cynthia-birthday-23/flute2.html
 - [ ] Get p5 working
 - [ ] Make da thing (web safe flute effect from yume nikki)
     - [x] Get Samples to use 
